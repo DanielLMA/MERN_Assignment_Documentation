@@ -67,7 +67,7 @@ As stated above, Node.js works without an enclosing HTML page, instead using its
 
 ## Application Architecture Diagram	
 
-![App Architecture](docs/App_Architecture_MERN_Project.png)
+![App Architecture](docs/App_Arch_MERN_App.png)
 
 ## Site Map Diagram
 
