@@ -184,3 +184,8 @@ The team discussed what project management method would be the most effective
 
 [Resources](https://docs.google.com/document/d/1qCIVq4t38VcJ9CifgAuvjDxCgSFbA2Dvnt6x0-GKwyY/edit)
 
+Client Email Initial Contact: 
+
+![Email1](docs/email_1.png)
+
+![Email2](docs/email_2.png)
