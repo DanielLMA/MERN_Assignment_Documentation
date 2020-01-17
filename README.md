@@ -25,7 +25,7 @@ The MERN tech stack will be incorporated into this project, the four open source
 
 ## Dataflow Diagram	
 
-![Dataflow Diagram](docs/Dataflow_Diagram_MERN.png)
+![Dataflow Diagram](docs/Dataflow_Diagram_MERN_App_2.png)
 
 ## Application Architecture Diagram	
 
