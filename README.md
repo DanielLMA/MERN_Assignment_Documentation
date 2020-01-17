@@ -1,5 +1,7 @@
 # DAP_MERN_ASSIGNMENT_DOCUMENTATION
 
+![DAP_Logo](docs/company_logo.png)
+
 
 ## Description of your website, including:
 
