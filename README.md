@@ -16,11 +16,48 @@ The functional features will allow customers to check available dates and times 
 
 #### Target audience
 
-The target audience is males living in the Gold Coast metro-area who are looking for an occaional classic, modern, or specialty styled haircut. 
+Our Clients main reason for building a business website is due to expanding the Target Audience, "Raw Barbershop" is limited to an audience age gap from 10-30 year, Our clients main expectation for deployment of this website application is to reach all ages but being a barbershop, It will be limited to males living in the Gold Coast metro-area who are looking for an occaional classic, modern, or specialty styled haircut. 
+
+"Raw Barbershop" would also like to implement an after hours service in the near future to reach the audience of males who work a 9-5 job and are able to get haircuts in their time through a book system afer hours service.
 
 #### Tech stack
 
 The MERN tech stack will be incorporated into this project, the four open sourced components being MongoDB, Express, React, and Node.js. The noSQL database, MongoDB is utilized in the MERN stack. The backend server utilizes Node.js, Express, and mongoose. The front end utilizes React. 
+
+
+#### Mongo - Cross Platform Database
+
+MySQL is a relational database that  is based  on tabular design  whereas  NoSQL  is non-relational in nature with its document-based design.
+
+  
+
+Mongo is a is No-SQL document oriented database, Meaning it does not have the typical schema-design,  MongoDB  is schema-less & the data  is stored  in a JSON based query language.
+
+  
+
+MongoDB is commonly known for being easy to scale and flexible.
+
+#### Express - A Back-end web app Framework
+
+  
+
+Express is a web app framework for Node JS, A boilerplate template server code for Node JS  if you will. Express is a very efficient for developers as there is no need to repeat the same code as you would with the Node.js HTTP module.
+
+  
+
+#### React - A Js Library for building UI
+
+  
+
+The React library  can be  used for creating views rendered in HTML. React is a great way to replace repetitive HTML or DOM templates as React is a full featured language (JS)  to build  repetitive or conditional DOM elements.
+
+#### Node.js - A cross-platform runtime environment
+
+NodeJS  is a platform for executing JS outside of the browser on the server-side. It  is used  with apps that  require a persistent  connection between the browser and the server.
+
+  
+
+As stated above, Node.js works without an enclosing HTML page, instead using its own module system to put together multiple JS files.
 
 
 ## Dataflow Diagram	
@@ -79,6 +116,53 @@ As the owner,
 ## Wireframes for multiple standard screen sizes, created using industry standard software	
 
 
+### Initial wireframes
+
+These are the initial wireframes that were designed loosely based on client descriptions. The original design was to be simple and sleek, with a dark palette and minimal style.
+
+![home draft](docs/wireframes/homedraft.PNG)
+
+![about draft](docs/wireframes/aboutdraft.PNG)
+
+![location draft](docs/wireframes/locationdraft.PNG)
+
+After a meeting with the client and receiving feedback on these designs, the wireframes were then revised and redesigned based on client requests. He specified that he would like to have a lighter theme and a cleaner look.
+
+![home alt](docs/wireframes/homealternatelogo.PNG)
+
+This was the original page but was requested to have the logo colour changed to the following.
+
+![home](docs/wireframes/home.PNG)
+
+![home mobile](docs/wireframes/homemobile.PNG)
+
+The client also requested that a burger menu be implemented so that the user may be able to navigate throughout the website freely.
+
+![burger](docs/wireframes/burgermenu.PNG)
+
+![about](docs/wireframes/about.PNG)
+
+![about mobile](docs/wireframes/aboutmobile.PNG)
+
+![barbers](docs/wireframes/barbers.PNG)
+
+![barbers mobile](docs/wireframes/barbersmobile.PNG)
+
+![contact](docs/wireframes/contact.PNG)
+
+![contact mobile](docs/wireframes/contactmobile.PNG)
+
+![gallery](docs/wireframes/gallery.PNG)
+
+![gallery mobile](docs/wireframes/gallerymobile.PNG)
+
+![location](docs/wireframes/location.PNG)
+
+![location mobile](docs/wireframes/locationmobile.PNG)
+
+![services](docs/wireframes/services.PNG)
+
+![services](docs/wireframes/servicesmobile.PNG)
 
 ## Screenshots of your Trello board throughout the duration of the project	
 
