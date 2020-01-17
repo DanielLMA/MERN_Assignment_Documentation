@@ -2,7 +2,6 @@
 
 ![DAP_Logo](docs/company_logo.png)
 
-
 ## Description of your website, including:
 
 ### Purpose
@@ -64,13 +63,15 @@ As stated above, Node.js works without an enclosing HTML page, instead using its
 
 ## Dataflow Diagram	
 
-![Dataflow Diagram](docs/Dataflow_Diagram_MERN_App_2.png)
+![Dataflow Diagram](docs/Dataflow_Diagram_MERN.png)
 
 ## Application Architecture Diagram	
 
+![App Architecture](docs/App_Architecture_MERN_Project.png)
+
 ## Site Map Diagram
 
-![App Architecture](docs/App_Architecture_MERN_Project.png)
+![Site Map](docs/Sitemap_MERN_Project.png)
 
 ## User Stories	
 
